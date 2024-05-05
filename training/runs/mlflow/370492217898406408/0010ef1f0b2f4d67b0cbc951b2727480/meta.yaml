@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Desktop/Football_Anal/training/runs/mlflow/370492217898406408/0010ef1f0b2f4d67b0cbc951b2727480/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '370492217898406408'
+lifecycle_stage: active
+run_id: 0010ef1f0b2f4d67b0cbc951b2727480
+run_name: train14
+run_uuid: 0010ef1f0b2f4d67b0cbc951b2727480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714735543865
+status: 1
+tags: []
+user_id: USER

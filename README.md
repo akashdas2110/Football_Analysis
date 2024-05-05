@@ -19,7 +19,7 @@ The following modules are used in this project:
 ## Trained Models
 
 * Trained Yolo v5
-* 
+
 ## Sample video
 * Sample input video
 
